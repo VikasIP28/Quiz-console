@@ -10,8 +10,8 @@ public class QuestionService {
         questions[0] =new Question(1, "What is size of int", "2", "6", "4", "8", "4");
         questions[1] =new Question(2, "What are the core concept of OOPs", "Inheritance", "encapsulation", "Polymorphism", "All the above", "All the above");
         questions[2] =new Question(3, "which of the following is false", "Constructor return Value", "constructor doesnt have return type", "constructor name should be same as class name ", "there is no restriction on access specifier", "Constructor return Value");
-        questions[3] =new Question(4, "What is size of long", "2", "6", "4", "8", "2");
-        questions[4] =new Question(5, "What is size of Char", "2", "1", "4", "8", "1");
+        questions[3] =new Question(4, "What is size of long", "2", "6", "4", "8", "8");
+        questions[4] =new Question(5, "What is size of Char", "2", "1", "4", "8", "2");
     }
 
     public void displayQuestion(){
